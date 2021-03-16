@@ -1,1 +1,1 @@
-Purely graphical, no code inside. Used as a net to seperate left and right paddle.
+Purely graphical, no code inside. Used as a net sprite down the middle to seperate left and right side for players.
