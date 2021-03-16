@@ -1,7 +1,7 @@
 # pong
 Pong game made in GMS2.
 
-[![meow123](https://github.com/vladsus/pong/blob/main/gameplay1.PNG "Optional Title")]
+![meow123](https://github.com/vladsus/pong/blob/main/gameplay1.PNG "Optional Title")
 
 Extract and play.
 
