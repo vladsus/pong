@@ -1,4 +1,4 @@
-#scripts
+# scripts
 
 All object scripts are contained here.
 
