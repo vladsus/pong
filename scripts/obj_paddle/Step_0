@@ -1,0 +1,13 @@
+/// @description Insert description here
+// You can write your code in this editor
+if y != mouse_y
+{
+	if y < mouse_y
+		{
+		y += spd
+		}
+		if y > mouse_y
+		{
+		y -= spd
+		}
+}
