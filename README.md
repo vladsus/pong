@@ -1,7 +1,9 @@
 # pong
 Pong game made in GMS2.
 
-Simply extract and play!
+Extract and play.
+
+Your paddle will follow your mouse, first one to get 11 points wins!
 
 According to GMS2 Project Use Time, it took 7 hours from start to finish to complete this game.
 This includes: sound, art, coding and playtesting.
