@@ -1,6 +1,8 @@
 # pong
 Pong game made in GMS2.
 
+[![meow](https://github.com/vladsus/pong/gameplay1.png "Optional Title")]
+
 Extract and play.
 
 Your paddle will follow your mouse, first one to get 11 points wins!
